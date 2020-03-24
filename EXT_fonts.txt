@@ -1,0 +1,9 @@
+"C:\\windows\\fonts\\times.ttf",
+"C:\\windows\\fonts\\arial.ttf",
+"C:\\windows\\fonts\\ariblk.ttf",
+"C:\\windows\\fonts\\arialn.ttf",
+"C:\\windows\\fonts\\hatten.ttf",
+"C:\\windows\\fonts\\gara.ttf",
+"C:\\windows\\fonts\\cour.ttf",
+"C:\\windows\\fonts\\gothic.ttf",
+"C:\\windows\\fonts\\brushsci.ttf"
